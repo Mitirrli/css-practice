@@ -1,0 +1,14 @@
+/*
+!important > 行内样式 > id选择器 > 类选择器 > 标签选择器
+*/
+#id-p1{
+    color: brown;
+}
+
+.class-p1{
+    color: burlywood !important;
+}
+
+p{
+    color: chartreuse;
+}

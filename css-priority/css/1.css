@@ -1,0 +1,10 @@
+/*
+优先使用最详细的配置
+*/
+#tag-div{
+    color: red;
+}
+
+.class-p1{
+    color: blueviolet;
+}

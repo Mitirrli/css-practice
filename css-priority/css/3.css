@@ -1,0 +1,21 @@
+/*
+多优先级: 
+先比较id选择器数目
+再比较class选择器数目
+最后比较tag选择器数目
+*/
+.class-div #id-p2{
+    color: darkblue;
+}
+
+#tag-div > #id-p1{
+    color: brown;
+}
+
+#id-p1 .class-p1{
+    color: yellow;
+}
+
+#tag-div #id-p2{
+    color: cadetblue;
+}

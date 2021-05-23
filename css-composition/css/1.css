@@ -1,0 +1,29 @@
+/*
+什么是浮动
+*/
+
+#div1{
+    height: 20%;
+}
+#div1-child1{
+    width: 50%;
+    background-color: blue;
+}
+#div1-child2{
+    width: 50%;
+    background-color: #800080;
+}
+#div2{
+    height: 60%;
+    background-color: yellow;
+}
+#div3{
+    height: 20%;
+    background-color: green;
+}
+.all-height{
+    height: 100%;
+}
+.center{
+    text-align: center;
+}
